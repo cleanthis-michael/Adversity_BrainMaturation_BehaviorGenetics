@@ -5,20 +5,20 @@ This study uses the Michigan Twin Neurogenetics Study (MTwiNS), a population-bas
 ## Steps 1 & 2. Computation of Adversity Composites
 Code snippets for the calculation of exposure to threat and socioeconomic disadvantage during childhood and adolescence.
 
-## Step 3. Data Preparation and Analyses
-Code snippet for preparation of data (e.g., integrating data frames) and Mplus analyses using MplusAutomation.
+## Steps 3 & 4. Data Preparation and Analyses
+Code snippets for preparation of data (e.g., integrating data frames) and Mplus analyses using MplusAutomation.
 
-## Step 4. Generation of Plots
+## Step 5. Generation of Plots
 Code snippet for creation of figures.
 
-## Step 5. Sensitivity Analyses - Motion Correction
+## Step 6. Sensitivity Analyses - Motion Correction
 Code snippet for preparation and analysis of data after exclusion of participants with lower image quality.
 
-## Step 6. Sensitivity Analyses - Brain Age
+## Step 7. Sensitivity Analyses - Brain Age
 Code snippet for preparation and analysis of data after creating a composite index of brain age. Sensitivity analyses integrate the Pyment algorithm with the Drobinin algorithm (Drobinin, V., Van Gestel, H., Helmick, C. A., Schmidt, M. H., Bowen, C. V., & Uher, R. (2022). The developmental brain age is associated with adversity, depression, and functional outcomes among adolescents. Biological Psychiatry: Cognitive Neuroscience and Neuroimaging, 7(4), 406-414) and Centile algorithm (Yu, Y., Cui, H. Q., Haas, S. S., New, F., Sanford, N., Yu, K., ... & ENIGMA‐Lifespan Working Group. (2024). Brain‐age prediction: Systematic evaluation of site effects, and sample age range and size. Human Brain Mapping, 45(10), e26768).
 
-## Step 7. Sensitivity Analyses - Adversity Exposure
+## Step 8. Sensitivity Analyses - Adversity Exposure
 Code snippet for preparation and analysis of data after creating adversity composites using a data-driven, rather than theory-driven, approach.
 
-## Step 8. Behavior Genetics
+## Step 9. Behavior Genetics
 SPSS code implemented to conduct twin difference and co-twin control analyses characterizing the etiology of observed associations between adversity exposure and brain maturation.
