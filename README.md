@@ -1,5 +1,5 @@
 # Adversity_BrainMaturation_BehaviorGenetics
-Delineating the etiology of associations between adversity exposure and brain maturation
+Delineating the etiology of associations between adversity exposure and brain maturation.\n
 This study uses the Michigan Twin Neurogenetics Study (MTwiNS), a population-based cohort of twins recruited from lower-income neighborhoods in Southeast Michigan. We characterize how adversity exposure during childhood and adolescence is associated with brain age gaps (a potential proxy for brain maturation) during adolescence, and implement behavior genetic analyses to identify whether observed associations reflect environmental versus genetic pathways. Primary analyses use the Pyment algorithm to generate brain age and derive brain age gaps (Leonardsen, E. H., Peng, H., Kaufmann, T., Agartz, I., Andreassen, O. A., Celius, E. G., ... & Wang, Y. (2022). Deep neural networks learn general and clinically relevant representations of the ageing brain. NeuroImage, 256, 119210).
 
 ## Steps 1 & 2. Computation of Adversity Composites
